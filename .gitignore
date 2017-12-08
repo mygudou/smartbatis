@@ -1,0 +1,53 @@
+################
+# IntelliJ IDEA #
+#################
+.gradle/
+.idea/
+*.iml
+classes/
+out/
+
+###########
+# Eclipse #
+###########
+.classpath
+.project
+.settings
+
+#######
+# SVN #
+#######
+.svn/
+
+###########
+# Project #
+###########
+lib/
+log/
+build/
+
+#########
+# Maven #
+#########
+target/
+
+########
+# Java #
+########
+*.class
+
+##########
+# Python #
+##########
+*.pyc
+
+##########
+# sqlite #
+##########
+*.db
+
+#######
+# log #
+#######
+*.log
+/bin/
